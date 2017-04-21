@@ -1,0 +1,13 @@
+"*":
+  core:
+    projectHome: "C:\\devtools\\code"
+    themes: [
+      "one-light-ui"
+      "one-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "6e6f7d53-85c1-f646-b91e-90ff9717fb31"
+  "git-plus":
+    pullBeforePush: "pull --rebase"
+  welcome:
+    showOnStartup: false
